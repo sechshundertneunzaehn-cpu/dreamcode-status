@@ -1,17 +1,17 @@
 {
-  "stand": "2026-08-29T10:15:01Z",
-  "stand_lesbar": "29.08.2026 10:15",
+  "stand": "2026-08-29T10:20:01Z",
+  "stand_lesbar": "29.08.2026 10:20",
   "veraltet_ab_minuten": 15,
   "gesamt": "ok",
   "text": "Alle Dienste laufen.",
   "dienste": {
     "api": { "zustand": "ok", "httpcode": "200", "antwort_ms": 1 },
     "app_version": 755,
-    "anfragen_5min": 24,
+    "anfragen_5min": 25,
     "serverfehler_5min": 0,
-    "p95_ms": 2,
-    "sonde_letzter_lauf": "2026-08-29_10:10:01",
-    "sicherung_alter_stunden": 0,
+    "p95_ms": 3,
+    "sonde_letzter_lauf": "2026-08-29_10:15:01",
+    "sicherung_alter_stunden": 1,
     "ratelimit_modus": "enforce",
     "funktionsschalter": "alles an"
   }
